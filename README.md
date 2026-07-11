@@ -1,6 +1,5 @@
 ![](https://files.catbox.moe/elb97j.gif)
 wip
-![](https://files.catbox.moe/ih79as.jpg)
 <!--
 **uberqueer/uberqueer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
